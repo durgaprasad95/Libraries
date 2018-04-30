@@ -1,8 +1,7 @@
 # Libraries
 
-```html
 <body style="color:white;background-color:blue;">
-  <div>
+  ![#f03c15]<div>
     <ol list-syle="1">
       <li><a href="https://github.com/durgaprasad95/Libraries/tree/AUTO_HASH">Hashing</a></li>
       <li><a href="https://github.com/durgaprasad95/Libraries/tree/JQUERY">Jquery</a></li>

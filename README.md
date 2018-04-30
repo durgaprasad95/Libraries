@@ -1,15 +1,8 @@
 # Libraries
-<head>
-  <style type="text/css">
-    body{
-      color:white;
-      background-color:blue;
-    }
-  </style>
-</head>
-<body>
+
+<body style="color:white;background-color:blue;">
   <div>
-    <ol>
+    <ol list-syle="1">
       <a href="https://github.com/durgaprasad95/Libraries/tree/AUTO_HASH">Hashing</a>
       <a href="https://github.com/durgaprasad95/Libraries/tree/JQUERY">Jquery</a>
       <a href="https://github.com/durgaprasad95/Libraries/tree/FONT_AWESOME">Font Awesome's</a> <span>Really awesome icons</span>
